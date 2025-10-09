@@ -1,0 +1,47 @@
+What is Machine Learning (ML) and Why It Matters
+
+Machine Learning is a branch of Artificial Intelligence that enables systems to learn from data and improve their performance without being explicitly programmed.
+
+It differs from traditional programming, where rules are manually defined. In ML, the system derives rules from data.
+
+Real-world use cases: recommendation systems (Netflix, Amazon), image recognition (facial recognition, medical imaging), spam detection, predictive analytics (stock market, weather forecasting).
+
+2. AI, ML, and Deep Learning — Relationship
+
+Artificial Intelligence (AI): Broad field focused on building systems that can perform tasks requiring human intelligence.
+
+Machine Learning (ML): A subset of AI that learns from data.
+
+Deep Learning (DL): A subset of ML that uses multi-layered neural networks to process complex data like images, speech, and text.
+
+3. Types / Paradigms of Machine Learning
+
+Supervised Learning: Learning from labeled data (input → output).
+
+Examples: classification, regression.
+
+Unsupervised Learning: Learning patterns from unlabeled data.
+
+Examples: clustering, dimensionality reduction.
+
+Reinforcement Learning: An agent learns by interacting with the environment, receiving rewards or penalties.
+
+Other types: Semi-supervised learning, self-supervised learning.
+
+4. Machine Learning Workflow / Pipeline
+
+Data collection
+
+Data cleaning / preprocessing (handling missing values, normalization, encoding categorical data)
+
+Feature engineering / selection
+
+Splitting data into training, validation, and test sets
+
+Model training
+
+Evaluation / validation
+
+Hyperparameter tuning
+
+Deployment
