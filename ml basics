@@ -1,0 +1,51 @@
+Why Machine Learning Matters
+
+Reduces human effort in repetitive tasks
+
+Makes accurate predictions for better decisions
+
+Learns and improves with time
+
+Saves money and increases efficiency in industries
+
+Powers the technology people use every day
+Artificial Intelligence (AI): The broad goal of making machines intelligent.
+
+Machine Learning (ML): A subset of AI that learns patterns from data.
+
+Deep Learning (DL): A special kind of ML that uses neural networks, useful for images, speech, and natural language.
+Types of Machine Learning
+
+Supervised Learning: Learns from labeled data (with answers). Example: Predicting exam results from study hours.
+
+Unsupervised Learning: Finds hidden patterns in unlabeled data. Example: Grouping shoppers by buying behavior.
+
+Reinforcement Learning: Learns by rewards and punishments. Example: Robots learning to walk or play chess.
+
+Semi-supervised Learning: Uses a mix of labeled and unlabeled data.
+
+Self-supervised Learning: A modern method used in large AI models like GPT.
+
+Workflow of a Machine Learning Project
+
+Define the problem
+
+Collect data
+
+Clean and preprocess data
+
+Feature engineering (choosing right factors)
+
+Split data into training, testing, validation sets
+
+Train the model
+
+Evaluate performance
+
+Tune hyperparameters (settings)
+
+Deploy into real systems
+
+Monitor and update regularly
+
+
