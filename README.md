@@ -40,6 +40,8 @@ extracts related resources from GeeksforGeeks, retrieves the VisuAlgo visualizat
    -Topic detected → AI processes → GFG link extracted → VisuAlgo visualization mapped → Notification delivered.
 
 🏗️ Architecture
+
+
  ┌──────────────────────────────┐      ┌────────────────────────────────┐
  │     User Reads Article       │ ---> │   GeeksforGeeks Resource       │
  │  (Problem / Topic Selected)  │      │  Provides Coding Explanation   │
@@ -73,6 +75,8 @@ extracts related resources from GeeksforGeeks, retrieves the VisuAlgo visualizat
                                  │      Enhanced Learning       │
                                  │ (User Understands Better)    │
                                  └──────────────────────────────┘
+
+
 
 
 ✅ Existing System (Problems)
