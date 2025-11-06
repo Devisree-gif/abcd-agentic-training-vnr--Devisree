@@ -69,15 +69,6 @@ extracts related resources from GeeksforGeeks, retrieves the VisuAlgo visualizat
                  └─────────────────────┬─────────┘
                                        │
                                        ▼
-     ┌───────────────────────────┬──────────────────────────┬───────────────────────────┐
-     │                           │                          │                           │
-     ▼                           ▼                          ▼                           ▼
-┌──────────────┐        ┌────────────────┐        ┌─────────────────────┐       ┌────────────────────┐
-│ Trees        │        │ Graphs         │        │ Sorting Algorithms  │       │ Dynamic Programming │
-└──────────────┘        └────────────────┘        └─────────────────────┘       └────────────────────┘
-     │                           │                          │                           │
-     └───────────────────────────┴──────────────────────────┴───────────────────────────┘
-                                       ▼
                  ┌───────────────────────────────┐
                  │      Visual Learning Output    │
                  │ Interactive Diagrams           │
@@ -89,9 +80,6 @@ extracts related resources from GeeksforGeeks, retrieves the VisuAlgo visualizat
                  │       Enhanced Learning        │
                  │    User Understands Better     │
                  └───────────────────────────────┘
-
-
-
 
 ✅ Existing System (Problems)
 
